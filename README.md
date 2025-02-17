@@ -23,14 +23,14 @@ Here are the tools and technologies I work with:
 ---
 
 ## 🏆 **Projects I’m Proud Of:**  
-### ![Learnwise Logo](https://raw.githubusercontent.com/aayush-12321/aayush-12321/main/favicon-removebg-preview.svg) [**Learnwise**](#)  
+### ![Learnwise Logo](https://raw.githubusercontent.com/aayush-12321/aayush-12321/main/favicon-removebg-preview.svg) [**Learnwise**](https://github.com/aayush-12321/LearnWise)  
 
 A social media web app with rich features like:  
 - 👥 User management for learners and mentors  
 - ❤️ Like, comment, save, and follow features  
 - 🔍 Search and filter, messaging, video conferencing  
 
-### 🔹 [**E-commerce Website**](#)  
+### 🔹 [**E-commerce Website**](https://github.com/aayush-12321/Python-Project)  
 A fully functional online store with:  
 - 🛒 Product listings and categories  
 - 💳 Shopping cart, checkout, and payment options  
