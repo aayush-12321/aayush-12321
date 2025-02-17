@@ -23,7 +23,8 @@ Here are the tools and technologies I work with:
 ---
 
 ## 🏆 **Projects I’m Proud Of:**  
-### (https://raw.githubusercontent.com/aayush-12321/aayush-12321/main/favicon-removebg-preview.svg) [**Learnwise**](#)  
+### ![Learnwise Logo](https://raw.githubusercontent.com/aayush-12321/aayush-12321/main/favicon-removebg-preview.svg) [**Learnwise**](#)  
+
 A social media web app with rich features like:  
 - 👥 User management for learners and mentors  
 - ❤️ Like, comment, save, and follow features  
