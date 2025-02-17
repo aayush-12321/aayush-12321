@@ -51,7 +51,7 @@ A fully functional online store with:
 ---
 
 ## 📫 **Let’s Connect:**  
-- ✉️ **Email Me :**[(aayushparajuli23@gmail.com)]  
+- ✉️ **Email Me : **aayushparajuli23@gmail.com
 
 ---
 
