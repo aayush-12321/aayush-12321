@@ -1,5 +1,5 @@
 # Hey there! 👋  
-I'm **Aayush**, a passionate **Full-Stack Developer** and **AI/ML Enthusiast** constantly exploring new technologies and building cool projects. 🚀  
+I'm **Aayush**, a passionate **Full-Stack Developer** and **AI/ML Enthusiast** constantly exploring new technologies and building projects. 🚀  
 
 ---
 
