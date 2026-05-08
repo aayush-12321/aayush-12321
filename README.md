@@ -81,7 +81,7 @@ A real-time yoga pose detection system that gives feedback based on body posture
 
 ---
 
-## 📚 LearnWise: Knowledge Sharing Platform
+## ![Learnwise Logo](https://raw.githubusercontent.com/aayush-12321/aayush-12321/main/favicon-removebg-preview.svg) LearnWise: Knowledge Sharing Platform
 
 🔗 https://github.com/aayush-12321/LearnWise
 
