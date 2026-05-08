@@ -81,7 +81,7 @@ A real-time yoga pose detection system that gives feedback based on body posture
 
 ---
 
-## ![Learnwise Logo](https://raw.githubusercontent.com/aayush-12321/aayush-12321/main/favicon-removebg-preview.svg) LearnWise: Knowledge Sharing Platform
+## <img src="favicon-removebg-preview.svg" alt="Logo" width="20" /> LearnWise: Knowledge Sharing Platform
 
 🔗 https://github.com/aayush-12321/LearnWise
 
@@ -139,10 +139,15 @@ A collection of small ML projects like prediction, classification, and clusterin
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aayush-12321&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-12321&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=aayush-12321&show_icons=true&theme=transparent&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aayush-12321&layout=compact&theme=transparent&hide_border=true" /></td>
+  </tr>
+  <!-- <tr>
+    <td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-12321&theme=react-dark&area=true&hide_border=true" /></td>
+  </tr> -->
+</table>
 
 ---
 
@@ -161,6 +166,8 @@ A collection of small ML projects like prediction, classification, and clusterin
         <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white">
 
   </a>
+
+  <!-- <img src="https://komarev.com/ghpvc/?username=aayush-12321&color=blue&style=flat-square" alt="Profile Views" /> -->
 </p>
 
 ---
