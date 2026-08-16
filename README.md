@@ -2,21 +2,22 @@
 <h1 align="center">Aayush Parajuli</h1>
 
 <p align="center">
-  <strong>Machine Learning Enthusiast • Full Stack Developer • AI Developer</strong>
+  <strong>Machine Learning Enthusiast • Data Science Enthusiast • Full Stack Developer • AI Developer</strong>
 </p>
 
 <p align="center">
-Exploring AI, machine learning, and full-stack development through hands-on projects.
+Exploring AI, Machine learning,Data Science and Full-stack development through hands-on projects.
 </p>
 
 ---
 
 ## About Me
 
-I work on projects that sit at the intersection of AI and web development. Most of my focus is on building systems that can actually *do something useful*, not just stay as notebooks.
+I work on projects that sit at the intersection of AI, Data and Web development. Most of my focus is on building systems that can actually *do something useful*, not just stay as notebooks.
 
 I’ve been exploring:
-- Machine Learning & Deep Learning  
+- Machine Learning & Deep Learning
+- Data Science
 - Backend Development
 - NLP (Sentiment Analysis, Text Understanding)  
 - Computer Vision  
@@ -27,7 +28,8 @@ I’ve been exploring:
 
 ## Current Focus
 
-- Real-time AI Applications 
+- Real-time AI Applications
+- Data Science
 - Backend Development 
 - ML Model Deployment  
 - NLP & Sentiment Analysis Systems  
@@ -47,6 +49,10 @@ I’ve been exploring:
 ### AI / ML
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=flat-square&logo=scikitlearn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-111?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-111?style=flat-square&logo=google)
+![BERT](https://img.shields.io/badge/BERT-111?style=flat-square&logo=huggingface)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-111?style=flat-square&logo=huggingface)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111?style=flat-square&logo=huggingface)
 ![Pandas](https://img.shields.io/badge/Pandas-111?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-111?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-111?style=flat-square&logo=python&logoColor=3776AB)
@@ -55,8 +61,10 @@ I’ve been exploring:
 ### Web
 ![Django](https://img.shields.io/badge/Django-111?style=flat-square&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-111?style=flat-square&logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3)
 
